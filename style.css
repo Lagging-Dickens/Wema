@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-family: Chilanka;
+    border-bottom: 5px solid yellowgreen;
+    border-bottom-style: groove;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-width: thick;
+
+}
+form{
+    text-align: center;
+    padding: 50px;
+}
+input{
+    padding: 5px;
+    margin: 5px;
+
+}
+h2{
+    text-align: center;
+}
+.personal{
+    float: right;
+    border: 5px solid black;
+    border-style: double;
+}
+body{
+    background: #669966;
+}
+.parent{
+    float: right;
+    border: 5px solid black;
+    border-style: double;
+}
+.link{
+    float: left;
+}
